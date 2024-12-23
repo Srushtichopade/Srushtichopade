@@ -17,7 +17,7 @@ I'm a passionate developer focused on innovation and technology. My expertise li
 
 ## 🛠 *Tech Stack*
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,express,js,php,html,css,bootstrap" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,express,js,html,css,bootstrap" alt="Tech Stack" />
 </p>
 
 ---
